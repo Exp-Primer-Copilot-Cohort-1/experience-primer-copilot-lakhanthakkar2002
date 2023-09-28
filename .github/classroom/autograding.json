@@ -58,7 +58,8 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 1,
+      "name2":"lakhan"
     }
   ]
 }
